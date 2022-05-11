@@ -7,4 +7,28 @@
 ## 진행 순서
 Chapter 01. 디자인 패턴 소개와 전략 패턴 - helen0215
 
-Chapter 02. 옵저버 패턴 - terajh(carter)
+Chapter 02. 옵저버 패턴 - terajh
+
+Chapter 03. 데코레이터 패턴 - jngmk
+
+Chapter 04. 팩토리 패턴 - terajh
+
+Chapter 05. 싱글턴 패턴 - DoheeKang
+
+Chapter 06. 커맨드 패턴 - UnsangPark95
+
+Chapter 07. 어댑터 패턴과 퍼사드 패턴 - helen0215
+
+Chapter 08. 템플릿 메소드 패턴 - rever-whale
+
+Chapter 09. 반복자 패턴과 컴포지트 패턴 - jngmk
+
+Chapter 10. 상태 패턴 - rever-whale
+
+Chapter 11. 프록시 패턴 - DoheeKang
+
+Chapter 12. 복합 패턴 - UnsangPark95
+
+Chapter 13. 실전 디자인 패턴 - helen0215
+
+Chapter 14. 기타 패턴 (미정)
