@@ -26,16 +26,16 @@ Chapter 08. 템플릿 메소드 패턴 - rever-whale
 6주차) 22/05/24 <br/>
 Chapter 09. 반복자 패턴과 컴포지트 패턴 - jngmk
 
-7주차) 22/05/31 <br/>
+7주차) 22/06/08 <br/>
 Chapter 10. 상태 패턴 - rever-whale
 
-8주차) 22/06/07 <br/>
+8주차) 22/06/14 <br/>
 Chapter 11. 프록시 패턴 - DoheeKang
 
-9주차) 22/06/14 <br/>
+9주차) 22/06/21 <br/>
 Chapter 12. 복합 패턴 - UnsangPark95
 
-10주차) 22/06/21 <br/>
+10주차) 22/06/28 <br/>
 Chapter 13. 실전 디자인 패턴 - helen0215
 
 Chapter 14. 기타 패턴 (미정)
